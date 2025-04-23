@@ -1,0 +1,10 @@
+date,produit,entrepot_source,entrepot_destination,quantité,temps_transport (j)
+2025-04-01,Pommes,Depot_A,Depot_B,100,2
+2025-04-01,Bananes,Depot_B,Magasin_C,150,1
+2025-04-02,Oranges,Depot_A,Magasin_C,200,3
+2025-04-03,Pommes,Depot_B,Magasin_C,120,1
+2025-04-03,Bananes,Depot_A,Depot_B,180,2
+2025-04-04,Oranges,Depot_B,Magasin_C,100,1
+2025-04-05,Pommes,Depot_A,Depot_B,130,2
+2025-04-06,Bananes,Depot_B,Magasin_C,160,1
+2025-04-07,Oranges,Depot_A,Depot_B,140,2
